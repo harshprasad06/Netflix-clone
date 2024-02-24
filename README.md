@@ -1,2 +1,2 @@
 # Netflix-clone
-netlix app clone
+netlix app clone using react native
